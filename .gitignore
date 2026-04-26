@@ -1,0 +1,18 @@
+# Dependências
+node_modules/
+
+# Build e Artefatos
+dist/
+artifacts/
+cache/
+typechain-types/
+.tanstack/
+
+# Segurança
+.env
+deployed-addresses.json
+
+# Logs e Diversos
+*.log
+.DS_Store
+.vscode/
