@@ -68,4 +68,4 @@ O site estará disponível em `http://localhost:5173/`.
 6.  **MonkeyDAO:** Participe do futuro do projeto votando em propostas.
 
 ---
-*Desenvolvido com ❤️ para a comunidade MonkeyBet.*
+
