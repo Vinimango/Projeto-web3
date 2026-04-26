@@ -42,7 +42,7 @@ npx hardhat node  # Para rodar um nó local (opcional)
 1. Crie um arquivo `.env` na pasta `hardhat` com:
    - `PRIVATE_KEY` (sua chave privada)
    - `ALCHEMY_API_KEY` (sua chave do Alchemy)
-   - `ETHERSCAN_API_KEY` (para verificação)
+   - `ETHERSCAN_API_KEY` (1YVA2UQMQPGDZHBMJBXQMED479QJMWIZFI)
 2. Execute o deploy:
 ```bash
 npx hardhat run scripts/deploy.ts --network sepolia
